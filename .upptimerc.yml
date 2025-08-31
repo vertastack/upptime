@@ -6,8 +6,15 @@ sites:
   - name: Skarleto
     url: https://skarleto.com
     method: GET
-    maxResponseTime : 5000
+    maxResponseTime: 5000
     id: skarleto
+    type: globalping
+    location: sofia
+  - name: VertaStack
+    url: https://vertastack.com
+    method: GET
+    maxResponseTime: 5000
+    id: vertastack
     type: globalping
     location: sofia
 assignees: 
