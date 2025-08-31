@@ -17,6 +17,13 @@ sites:
     id: vertastack
     type: globalping
     location: sofia
+  - name: FortusLab
+    url: https://fortuslab.com/
+    method: GET
+    maxResponseTime: 5000
+    id: fortuslab
+    type: globalping
+    location: sofia
 assignees: 
   - ngdimitrov
   - AntonMingov
