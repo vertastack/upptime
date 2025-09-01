@@ -31,6 +31,8 @@ assignees:
 status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: Uptime
+  introTitle: "**VertaStack Uptime** monitoring status page"
+  introMessage: "This site monitors the availability of **VertaStack** services in real time via GitHub Actions and Upptime."
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
