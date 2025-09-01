@@ -28,6 +28,9 @@ assignees:
   - ngdimitrov
   - AntonMingov
   - lexa497
+status-website:
+  baseUrl: /upptime # where "repo" is your repository name
+  name: Uptime
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
@@ -59,17 +62,17 @@ assignees:
 # See https://upptime.js.org/docs/configuration
 
 
-status-website:
-  # Ако НЯМАШ custom домейн → трябва да е с baseUrl
-  baseUrl: /uptime
-  cname: null
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: VertaStack Uptime
-  introTitle: "**VertaStack Uptime** – мониторинг и статус страница"
-  introMessage: "Този сайт следи достъпността на услугите на **VertaStack** в реално време чрез GitHub Actions и Upptime."
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/VertaStack/uptime
+# status-website:
+#   # Ако НЯМАШ custom домейн → трябва да е с baseUrl
+#   baseUrl: /uptime
+#   cname: null
+#   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+#   name: VertaStack Uptime
+#   introTitle: "**VertaStack Uptime** – мониторинг и статус страница"
+#   introMessage: "Този сайт следи достъпността на услугите на **VertaStack** в реално време чрез GitHub Actions и Upptime."
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/VertaStack/uptime
 
