@@ -43,19 +43,19 @@
     "url": "https://fortuslab.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fortuslab.com.ico",
     "slug": "fortus-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 553,
-    "timeWeek": 600,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 591,
+    "timeDay": 500,
+    "timeWeek": 581,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 7
     }
   }
 ]
