@@ -21,6 +21,24 @@
     }
   },
   {
+    "name": "Starpi",
+    "url": "https://admin.fortuslab.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/admin.fortuslab.com.ico",
+    "slug": "starpi",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "VertaStack",
     "url": "https://vertastack.com",
     "icon": "https://icons.duckduckgo.com/ip3/vertastack.com.ico",
