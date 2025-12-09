@@ -28,7 +28,7 @@ sites:
     url: https://drvonderhoud.nl
     method: GET
     maxResponseTime: 6000
-    id: fortuslab
+    id: diverso
     type: globalping
     location: sofia
 assignees: 
