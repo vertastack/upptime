@@ -13,14 +13,21 @@ sites:
   - name: VertaStack
     url: https://vertastack.com
     method: GET
-    maxResponseTime: 5000
+    maxResponseTime: 6000
     id: vertastack
     type: globalping
     location: sofia
   - name: FortusLab
-    url: https://fortuslab.com/
+    url: https://fortuslab.com
     method: GET
-    maxResponseTime: 5000
+    maxResponseTime: 6000
+    id: fortuslab
+    type: globalping
+    location: sofia
+  - name: Diverso
+    url: https://drvonderhoud.nl
+    method: GET
+    maxResponseTime: 6000
     id: fortuslab
     type: globalping
     location: sofia
