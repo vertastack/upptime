@@ -10,6 +10,13 @@ sites:
     id: skarleto
     type: globalping
     location: sofia
+  - name: Starpi
+    url: https://admin.fortuslab.com/
+    method: GET
+    maxResponseTime: 6000
+    id: strapi
+    type: globalping
+    location: sofia
   - name: VertaStack
     url: https://vertastack.com
     method: GET
