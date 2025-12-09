@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vertastack.com.ico",
     "slug": "verta-stack",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 1004,
     "timeDay": 911,
     "timeWeek": 3047,
@@ -51,7 +51,7 @@
   },
   {
     "name": "FortusLab",
-    "url": "https://fortuslab.com/",
+    "url": "https://fortuslab.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortuslab.com.ico",
     "slug": "fortus-lab",
     "status": "up",
@@ -72,5 +72,23 @@
       "2025-10-07": 13,
       "2025-09-15": 7
     }
+  },
+  {
+    "name": "Diverso",
+    "url": "https://drvonderhoud.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/drvonderhoud.nl.ico",
+    "slug": "diverso",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
+    "dailyMinutesDown": {}
   }
 ]
