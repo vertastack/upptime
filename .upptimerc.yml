@@ -32,7 +32,7 @@ sites:
     type: globalping
     location: sofia
   - name: Diverso
-    url: https://drvonderhoud.nl
+    url: https://diversovastgoedonderhoud.nl
     method: GET
     maxResponseTime: 6000
     id: diverso
