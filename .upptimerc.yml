@@ -13,28 +13,28 @@ sites:
   - name: Starpi
     url: https://admin.fortuslab.com/
     method: GET
-    maxResponseTime: 6000
+    maxResponseTime: 8000
     id: strapi
     type: globalping
     location: sofia
   - name: VertaStack
     url: https://vertastack.com
     method: GET
-    maxResponseTime: 6000
+    maxResponseTime: 8000
     id: vertastack
     type: globalping
     location: sofia
   - name: FortusLab
     url: https://fortuslab.com
     method: GET
-    maxResponseTime: 6000
+    maxResponseTime: 8000
     id: fortuslab
     type: globalping
     location: sofia
   - name: Diverso
     url: https://diversovastgoedonderhoud.nl
     method: GET
-    maxResponseTime: 6000
+    maxResponseTime: 8000
     id: diverso
     type: globalping
     location: sofia
