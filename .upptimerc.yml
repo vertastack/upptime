@@ -38,7 +38,7 @@ sites:
     id: diverso
     type: globalping
     location: sofia
-  - name: Skarleto
+  - name: NikolayDimitrov
     url: https://nikolaydimitrov.dev
     method: GET
     maxResponseTime: 5000
