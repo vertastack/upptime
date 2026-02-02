@@ -1,7 +1,7 @@
 url: https://fortuslab.com
-status: up
+status: degraded
 code: 200
-responseTime: 525
-lastUpdated: 2026-02-01T23:27:35.532Z
+responseTime: 22285
+lastUpdated: 2026-02-02T16:04:43.008Z
 startTime: 2025-08-31T19:52:18.107Z
 generator: Upptime <https://github.com/upptime/upptime>
