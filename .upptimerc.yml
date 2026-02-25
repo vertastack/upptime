@@ -45,6 +45,20 @@ sites:
     id: nikolaydimitrov
     type: globalping
     location: sofia
+  - name: deluxe-homes
+    url: https://deluxe-homes.com
+    method: GET
+    maxResponseTime: 5000
+    id: deluxehomes
+    type: globalping
+    location: sofia
+  - name: propertyexpertbg
+    url: https://propertyexpertbg.com/
+    method: GET
+    maxResponseTime: 5000
+    id: propertyexpertbg
+    type: globalping
+    location: sofia
 assignees: 
   - ngdimitrov
   - AntonMingov
