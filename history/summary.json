@@ -139,5 +139,41 @@
     "timeMonth": 234,
     "timeYear": 201,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "deluxe-homes",
+    "url": "https://deluxe-homes.com",
+    "icon": "https://icons.duckduckgo.com/ip3/deluxe-homes.com.ico",
+    "slug": "deluxe-homes",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 827,
+    "timeDay": 827,
+    "timeWeek": 827,
+    "timeMonth": 827,
+    "timeYear": 827,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "propertyexpertbg",
+    "url": "https://propertyexpertbg.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/propertyexpertbg.com.ico",
+    "slug": "propertyexpertbg",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 883,
+    "timeDay": 883,
+    "timeWeek": 883,
+    "timeMonth": 883,
+    "timeYear": 883,
+    "dailyMinutesDown": {}
   }
 ]
