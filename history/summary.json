@@ -147,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/deluxe-homes.com.ico",
     "slug": "deluxe-homes",
     "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "63.36%",
+    "uptime": "97.43%",
+    "uptimeDay": "97.87%",
     "uptimeWeek": "94.77%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "97.43%",
     "time": 803,
     "timeDay": 873,
     "timeWeek": 805,
@@ -166,9 +166,9 @@
     "url": "https://propertyexpertbg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/propertyexpertbg.com.ico",
     "slug": "propertyexpertbg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,6 +177,8 @@
     "timeWeek": 1119,
     "timeMonth": 925,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-11": 0
+    }
   }
 ]
