@@ -11,7 +11,7 @@ sites:
     type: globalping
     location: sofia
   - name: Starpi
-    url: https://admin.fortuslab.com/
+    url: https://admin.fortuslab.com
     method: GET
     maxResponseTime: 15000
     id: strapi
@@ -53,10 +53,17 @@ sites:
     type: globalping
     location: sofia
   - name: propertyexpertbg
-    url: https://propertyexpertbg.com/
+    url: https://propertyexpertbg.com
     method: GET
     maxResponseTime: 5000
     id: propertyexpertbg
+    type: globalping
+    location: sofia
+  - name: officetrade
+    url: https://officetrade.bg
+    method: GET
+    maxResponseTime: 5000
+    id: officetrade
     type: globalping
     location: sofia
 assignees: 
