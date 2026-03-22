@@ -186,19 +186,19 @@
     "url": "https://officetrade.bg",
     "icon": "https://icons.duckduckgo.com/ip3/officetrade.bg.ico",
     "slug": "officetrade",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 399,
-    "timeWeek": 850,
-    "timeMonth": 850,
-    "timeYear": 850,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 928,
+    "timeDay": 704,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 20
     }
   }
 ]
