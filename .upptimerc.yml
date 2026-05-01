@@ -66,6 +66,20 @@ sites:
     id: officetrade
     type: globalping
     location: sofia
+  - name: nikiyana
+    url: https://nikiyana.com
+    method: GET
+    maxResponseTime: 5000
+    id: nikiyana
+    type: globalping
+    location: sofia
+  - name: infowarfares
+    url: https://www.infowarfares.com/en
+    method: GET
+    maxResponseTime: 15000
+    id: infowarfares
+    type: globalping
+    location: sofia
 assignees: 
   - ngdimitrov
   - AntonMingov
