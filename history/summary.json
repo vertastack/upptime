@@ -219,5 +219,41 @@
     "dailyMinutesDown": {
       "2026-03-22": 20
     }
+  },
+  {
+    "name": "nikiyana",
+    "url": "https://nikiyana.com",
+    "icon": "https://icons.duckduckgo.com/ip3/nikiyana.com.ico",
+    "slug": "nikiyana",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 380,
+    "timeDay": 380,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "infowarfares",
+    "url": "https://www.infowarfares.com/en",
+    "icon": "https://icons.duckduckgo.com/ip3/www.infowarfares.com.ico",
+    "slug": "infowarfares",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3328,
+    "timeDay": 3328,
+    "timeWeek": 3328,
+    "timeMonth": 3328,
+    "timeYear": 3328,
+    "dailyMinutesDown": {}
   }
 ]
