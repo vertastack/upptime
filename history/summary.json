@@ -4,22 +4,23 @@
     "url": "https://skarleto.com",
     "icon": "https://icons.duckduckgo.com/ip3/skarleto.com.ico",
     "slug": "skarleto",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 716,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 716,
+    "time": 714,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2025-10-03": 10,
       "2025-12-05": 24,
       "2026-02-16": 20,
-      "2026-06-13": 75
+      "2026-06-13": 75,
+      "2026-07-29": 1
     }
   },
   {
@@ -223,7 +224,7 @@
     "dailyMinutesDown": {
       "2026-03-11": 89,
       "2026-04-29": 126,
-      "2026-07-29": 655,
+      "2026-07-29": 663,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -290,9 +291,9 @@
     "slug": "officetrade",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 1174,
     "timeDay": 98,
@@ -302,7 +303,7 @@
     "dailyMinutesDown": {
       "2026-03-22": 20,
       "2026-06-13": 75,
-      "2026-07-29": 1
+      "2026-07-29": 9
     }
   },
   {
@@ -312,9 +313,9 @@
     "slug": "nikiyana",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 611,
     "timeDay": 254,
@@ -323,7 +324,7 @@
     "timeYear": 611,
     "dailyMinutesDown": {
       "2026-06-13": 75,
-      "2026-07-29": 0
+      "2026-07-29": 8
     }
   },
   {
