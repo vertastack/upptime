@@ -45,13 +45,13 @@ sites:
     id: diverso
     type: globalping
     location: sofia
-  - name: NikolayDimitrov
-    url: https://nikolaydimitrov.dev
-    method: GET
-    maxResponseTime: 5000
-    id: nikolaydimitrov
-    type: globalping
-    location: sofia
+  # - name: NikolayDimitrov
+  #   url: https://nikolaydimitrov.dev
+  #   method: GET
+  #   maxResponseTime: 5000
+  #   id: nikolaydimitrov
+  #   type: globalping
+  #   location: sofia
   - name: deluxe-homes
     url: https://deluxe-homes.com
     method: GET
@@ -59,34 +59,34 @@ sites:
     id: deluxehomes
     type: globalping
     location: sofia
-  - name: propertyexpertbg
-    url: https://propertyexpertbg.com
-    method: GET
-    maxResponseTime: 5000
-    id: propertyexpertbg
-    type: globalping
-    location: sofia
-  - name: officetrade
-    url: https://officetrade.bg
-    method: GET
-    maxResponseTime: 5000
-    id: officetrade
-    type: globalping
-    location: sofia
-  - name: nikiyana
-    url: https://nikiyana.com
-    method: GET
-    maxResponseTime: 5000
-    id: nikiyana
-    type: globalping
-    location: sofia
-  - name: infowarfares
-    url: https://www.infowarfares.com
-    method: GET
-    maxResponseTime: 15000
-    id: infowarfares
-    type: globalping
-    location: sofia
+  # - name: propertyexpertbg
+  #   url: https://propertyexpertbg.com
+  #   method: GET
+  #   maxResponseTime: 5000
+  #   id: propertyexpertbg
+  #   type: globalping
+  #   location: sofia
+  # - name: officetrade
+  #   url: https://officetrade.bg
+  #   method: GET
+  #   maxResponseTime: 5000
+  #   id: officetrade
+  #   type: globalping
+  #   location: sofia
+  # - name: nikiyana
+  #   url: https://nikiyana.com
+  #   method: GET
+  #   maxResponseTime: 5000
+  #   id: nikiyana
+  #   type: globalping
+  #   location: sofia
+  # - name: infowarfares
+  #   url: https://www.infowarfares.com
+  #   method: GET
+  #   maxResponseTime: 15000
+  #   id: infowarfares
+  #   type: globalping
+  #   location: sofia
 assignees: 
   - ngdimitrov
   - AntonMingov
