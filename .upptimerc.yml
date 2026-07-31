@@ -8,8 +8,6 @@ sites:
     method: GET
     maxResponseTime: 15000
     id: skarleto
-    type: globalping
-    location: bulgaria+datacenter-network
     headers:
       - "User-Agent: Vertastack-Uptime-Monitor/1.0"
       - "Accept: text/html"
