@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/skarleto.com.ico",
     "slug": "skarleto",
     "status": "down",
-    "uptime": "99.67%",
+    "uptime": "99.66%",
     "uptimeDay": "36.88%",
-    "uptimeWeek": "85.77%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "99.67%",
+    "uptimeWeek": "84.98%",
+    "uptimeMonth": "96.54%",
+    "uptimeYear": "99.66%",
     "time": 700,
     "timeDay": 370,
     "timeWeek": 264,
@@ -22,7 +22,7 @@
       "2026-06-13": 75,
       "2026-07-29": 454,
       "2026-07-30": 977,
-      "2026-07-31": 4
+      "2026-07-31": 84
     }
   },
   {
