@@ -6,14 +6,14 @@ sites:
   - name: Skarleto
     url: https://skarleto.com
     method: GET
-    maxResponseTime: 5000
+    maxResponseTime: 15000
     id: skarleto
     type: globalping
     location: sofia
   - name: Vasilgoranov
     url: https://vasilgoranov.com
     method: GET
-    maxResponseTime: 5000
+    maxResponseTime: 15000
     id: vasilgoranov
     type: globalping
     location: sofia
