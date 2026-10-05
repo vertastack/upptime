@@ -13,8 +13,8 @@
     "time": 688,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 617,
-    "timeYear": 726,
+    "timeMonth": 516,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-12-05": 24,
       "2026-02-16": 20,
@@ -30,15 +30,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasilgoranov.com.ico",
     "slug": "vasilgoranov",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.43%",
+    "uptimeYear": "97.45%",
     "time": 801,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 207,
+    "timeMonth": 213,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2026-05-07": 833,
@@ -62,7 +62,7 @@
     "time": 802,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 216,
+    "timeMonth": 217,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2025-12-19": 33,
@@ -89,8 +89,8 @@
     "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 202,
-    "timeYear": 908,
+    "timeMonth": 215,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-10-07": 15,
       "2025-10-27": 109,
@@ -119,8 +119,8 @@
     "time": 678,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 191,
-    "timeYear": 689,
+    "timeMonth": 203,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-10-07": 13,
       "2025-10-28": 6,
@@ -150,7 +150,7 @@
     "time": 1000,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 441,
+    "timeMonth": 437,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-12-20": 10,
@@ -179,7 +179,7 @@
     "time": 587,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 180,
+    "timeMonth": 193,
     "timeYear": 587,
     "dailyMinutesDown": {}
   }
